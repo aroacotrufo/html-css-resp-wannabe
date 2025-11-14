@@ -175,6 +175,29 @@ img {
     .why-us .col-left {
     width: 100%;
     margin-bottom: 2rem;
-    
-
+    }
 }
+/****************************************************
+    FOR TABLET
+*****************************************************/
+@media screen and (max-width:768px){
+     .lessons .container{
+        margin: 0 auto;
+        padding: 0 20px;
+        width:  auto;
+    }
+     .steps .container{
+        margin: 0 auto;
+        padding: 0 20px;
+        width: auto;
+    }
+
+     .why-us .container{
+        margin: 0 auto;
+        padding: 0 20px;
+        width:  800px;
+     }
+     p .why-us .col-left{
+        font-size
+    }
+    }
