@@ -195,7 +195,7 @@ img {
      .why-us .container{
         margin: 0 auto;
         padding: 0 20px;
-        width:  800px;
+        width:  auto;
      }
      p .why-us .col-left{
         font-size
